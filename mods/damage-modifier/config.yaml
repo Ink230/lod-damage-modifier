@@ -1,0 +1,4 @@
+damageBase: 150
+damageUpper: 240
+damageLower: 130
+itemMagicOnly: true
